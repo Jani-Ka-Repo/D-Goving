@@ -45,13 +45,13 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Jani-Ka-Repo/Clone",
+    "https://github.com/Jani-Ka-Repo/D-Goving",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", "")
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Jani_Ki_Jaanu")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+xnUCDYVIAONlMzNl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+K3ZEGFDX56hhZTU1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+ydWi_vYPpt5iYzVl")
 GITHUB = getenv("GITHUB", "https://t.me/Jani_Sanatani_Power")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
@@ -79,10 +79,10 @@ votemode = {}
 autoclean = []
 confirmer = {}
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/wn3ool.jpg").split()
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/wn3ool.jpg").split()
-HELP_IMG_URL = getenv("HELP_IMG_URL", "https://files.catbox.moe/wn3ool.jpg").split()
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/wn3ool.jpg").split()
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/orwgzv.jpg").split()
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/orwgzv.jpg").split()
+HELP_IMG_URL = getenv("HELP_IMG_URL", "https://files.catbox.moe/orwgzv.jpg").split()
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/orwgzv.jpg").split()
 
 PLAYLIST_IMG_URL = getenv("PLAYLIST_IMG_URL", "https://files.catbox.moe/5qrx1b.jpg").split()
 STATS_IMG_URL = getenv("STATS_IMG_URL", "https://files.catbox.moe/6k3x66.jpg")
