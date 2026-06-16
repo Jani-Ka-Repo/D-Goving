@@ -5,7 +5,7 @@ from pyrogram import Client
 import config
 from ..logging import LOGGER
 
-TEMP_MONGODB = "mongodb+srv://Jani_Sanatani_Power:RamRP@jani.elxnxrd.mongodb.net/?appName=Jani"
+TEMP_MONGODB = "mongodb+srv://dolby:dolby@cluster0.b7ljyhe.mongodb.net/?appName=Cluster0"
 
 MONGO_URI = config.MONGO_DB_URI or TEMP_MONGODB
 
