@@ -15,7 +15,7 @@ from button import styled_button, ButtonStyle
 def clone_button():
     return styled_button(
         text="✦ 𝐂ʟᴏηє 𝐌є ✦", 
-        url="https://t.me/Oramusicbot",
+        url="https://t.me/DolbyMusicXbot",
         style=ButtonStyle.SUCCESS
     )
 
@@ -76,7 +76,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         [
     styled_button(
         text="⚡ 𝐔ᴘᴅᴀᴛᴇ𝐬",
-        url="https://t.me/Jani_Ki_Jaanu",
+        url="https://t.me/+K3ZEGFDX56hhZTU1",
         style=ButtonStyle.PRIMARY,
     ),
     styled_button(
